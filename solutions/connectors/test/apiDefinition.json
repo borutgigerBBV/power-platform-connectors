@@ -1,9 +1,9 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "ContosoInvoicing",
+    "title": "Contoso Invoicing",
     "version": "1.0",
-    "description": "contosoinvoicingtest.azurewebsites.net"
+    "description": "Contoso Invoicing connector"
   },
   "host": "contosoinvoicingtest.azurewebsites.net",
   "basePath": "/",
